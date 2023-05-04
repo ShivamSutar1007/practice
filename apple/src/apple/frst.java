@@ -5,6 +5,7 @@ public class frst {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("lmao ");
+		System.out.println("lmao ");
 
 	}
 
